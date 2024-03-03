@@ -365,7 +365,7 @@
 </ul>
 <p><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*uGPV3qEF7yBq4PD0zua19A.png" alt="{{Indice Z."></p>
 <ul>
-<li><code>overflow</code> - <code>{visible, hidden, scroll, auto}</code>: Para indicar que ocurre con el contenido que es muy grande para caber en un área. Es necesario especificar la propiedad height. Existen variantes solo para un eje como <code>overflow-x</code> y <code>overflow-y</code>. Para más información visitar la <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/overflow">documentación</a>.
+<li><code>overflow</code> - <code>\{visible, hidden, scroll, auto\}</code>: Para indicar que ocurre con el contenido que es muy grande para caber en un área. Es necesario especificar la propiedad height. Existen variantes solo para un eje como <code>overflow-x</code> y <code>overflow-y</code>. Para más información visitar la <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/overflow">documentación</a>.
 <ul>
 <li><em>visible</em>: Se desborda el contenido.</li>
 <li><em>hidden</em>: No se muestra el contenido que no cabe.</li>
