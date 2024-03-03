@@ -395,7 +395,7 @@ En esta sección se enlistan algunas de las propiedades de CSS más importantes.
 	-	`sticky`: Se posiciona de manera estática, pero si se hace scroll cuando llegue a su posición determinada en top, bottom, left o right se comportará como elemento fijo.
 -	`z-index`: Es un índice para indicar la posición de elementos apilados (que aparezcan en frente, detrás, etc.), solo funciona con elementos con position _absolute_, _relative_, _fixed_ o _sticky_. Puede ser cero, positivos o negativos. Para más información visitar la [documentación](https://developer.mozilla.org/en-US/docs/Web/CSS/z-index).
  
-![{{Indice Z.](https://miro.medium.com/v2/resize:fit:720/format:webp/1*uGPV3qEF7yBq4PD0zua19A.png)
+![Indice Z.](https://miro.medium.com/v2/resize:fit:720/format:webp/1*uGPV3qEF7yBq4PD0zua19A.png)
 
 -	`overflow` \- `{visible, hidden, scroll, auto}`: Para indicar que ocurre con el contenido que es muy grande para caber en un área. Es necesario especificar la propiedad height. Existen variantes solo para un eje como `overflow-x` y `overflow-y`. Para más información visitar la [documentación](https://developer.mozilla.org/en-US/docs/Web/CSS/overflow).
 	-	_visible_: Se desborda el contenido.
